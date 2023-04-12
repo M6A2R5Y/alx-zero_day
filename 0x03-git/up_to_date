@@ -1,2 +1,4 @@
 git fetch
 git merge origin/main
+cd 0x03-git/
+touch up_to_date
